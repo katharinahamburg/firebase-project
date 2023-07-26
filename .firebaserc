@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tsil-odot": {
+      "hosting": {
+        "firebase-todolist": [
+          "tsil-odot"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tsil-odot"
+  }
+}
